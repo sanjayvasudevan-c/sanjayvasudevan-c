@@ -115,7 +115,11 @@ Security is not a middleware afterthought: **Argon2** password hashing, rotating
 
 ### `> snake --eat=contributions`
 
-<img src="https://raw.githubusercontent.com/sanjayvasudevan-c/sanjayvasudevan-c/output/snake-dark.svg" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayvasudevan-c/sanjayvasudevan-c/output/snake-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjayvasudevan-c/sanjayvasudevan-c/output/snake.svg?v=2"/>
+  <img src="https://raw.githubusercontent.com/sanjayvasudevan-c/sanjayvasudevan-c/output/snake-dark.svg?v=2" alt="contribution snake"/>
+</picture>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
